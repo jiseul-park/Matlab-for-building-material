@@ -1,5 +1,5 @@
 # Readme for TGA Data Plotting
-- [TG/DTG data read & plot (한국어)](#TG/DTG-data-read-&-plot-(한국어))
+- [TG/DTG data read & plot (한국어)](# TG/DTG data read & plot (한국어))
 - [TG/DTG data read & plot (Eng)](#TG/DTG-data-read-&-plot-(Eng))
 
 # TG/DTG data read & plot (한국어)
