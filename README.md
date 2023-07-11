@@ -1,6 +1,11 @@
 # Readme for TGA Data Plotting
+## TG/DTG
 - [TG/DTG data read & plot (한국어)](#tg-and-dtg-data-read-and-plot-in-korean)
-- [TG/DTG data read & plot (Eng)](#tg-and-dtg-data-read-and-plot-english)
+- [TG/DTG data read & plot (Eng)](#tg-and-dtg-data-read-and-plot-in-english)
+
+
+
+---
 
 # TG and DTG data read and plot in Korean
 
