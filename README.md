@@ -1,13 +1,13 @@
 # Readme for TGA Data Plotting
 ## TG/DTG
-- [TG/DTG data read & plot (한국어)](#tg-and-dtg-data-read-and-plot-in-korean)
-- [TG/DTG data read & plot (Eng)](#tg-and-dtg-data-read-and-plot-in-english)
+- [TG/DTG data read & plot (한국어)](#tg--dtg-data-read--plot-in-korean)
+- [TG/DTG data read & plot (Eng)](#tg--dtg-data-read--plot-in-english)
 
 
 
 ---
 
-# TG and DTG data read and plot in Korean
+# TG / DTG data read & plot in Korean
 
 ## 개요
 - 이 코드는 열중량분석(TGA) 데이터를 포함하는 텍스트 파일을 읽고 샘플 이름을 기준으로 데이터를 플롯합니다.
@@ -37,7 +37,7 @@
 - 스크립트는 **'min'**으로 시작하는 행을 찾을 때까지 헤더 행을 건너뜁니다.
 
 
-# TG and DTG data read and plot in English
+# TG / DTG data read & plot in English
 
 ## Overview
 - This script reads text files containing Thermogravimetric Analysis (TGA) data and plots the data based on sample names.
