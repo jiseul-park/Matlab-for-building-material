@@ -1,8 +1,10 @@
-# Readme for TGA Data Plotting
-## TG/DTG
+# Readme for Matlab code
+
+## plot_tg_dtg.m
 - [TG/DTG data read & plot (한국어)](#tg--dtg-data-read--plot-in-korean)
 - [TG/DTG data read & plot (Eng)](#tg--dtg-data-read--plot-in-english)
 
+## (upcoming) curve_fit_nmr.m
 
 
 ---
