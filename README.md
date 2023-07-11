@@ -1,8 +1,8 @@
 # Readme for TGA Data Plotting
-- [TG/DTG data read & plot (한국어)](# TG/DTG data read & plot (한국어))
+- [TG/DTG data read & plot (한국어)](#TG/DTG-data-read-&-plot-(한국어))
 - [TG/DTG data read & plot (Eng)](#TG/DTG-data-read-&-plot-(Eng))
 
-# TG/DTG data read & plot (한국어)
+# TG/DTG-data-read-&-plot-(한국어)
 
 ## 개요
 - 이 코드는 열중량분석(TGA) 데이터를 포함하는 텍스트 파일을 읽고 샘플 이름을 기준으로 데이터를 플롯합니다.
